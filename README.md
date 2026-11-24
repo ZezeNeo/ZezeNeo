@@ -22,7 +22,7 @@
 
 - **GitHub:** [ZezeNeo](https://github.com/ZezeNeo)
 - **Telegram-канал:** [перейти в канал](https://t.me/+Sx6Z_HsPYRZmNWYy)
-
+Тг связь "@NeonMayCry"
 Открыт к интересным задачам и сотрудничеству.## Hi there 👋
 
 <!--
