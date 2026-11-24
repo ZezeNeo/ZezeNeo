@@ -1,5 +1,34 @@
 # Привет! Я Егор 👋
 
+Разрабатываю сайты, Telegram-ботов и веб-сервисы.
+
+## 🧰 Чем могу помочь
+
+- Сайты и лендинги
+- Telegram-боты и Mini Apps
+- Веб-сервисы, API и автоматизация
+
+## ⚙️ Технологии
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🚀 Проекты
+
+Портфолио формируется — скоро здесь появятся мои проекты.
+
+## 📫 Связаться со мной
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZezeNeo-181717?style=for-the-badge&logo=github)](https://github.com/ZezeNeo)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonMayCry)
+
+📣 [Мой Telegram-канал](https://t.me/+Sx6Z_HsPYRZmNWYy)
+# Привет! Я Егор 👋
+
 Разрабатываю сайты, лендинги, Telegram-ботов и веб-сервисы. Помогаю превращать идеи в работающие цифровые продукты.
 
 ## 🛠 Чем могу помочь
